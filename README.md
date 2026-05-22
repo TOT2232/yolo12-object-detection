@@ -1,1 +1,1 @@
-# yolo11-obiect-dection
+# yolo12-obiect-dection
