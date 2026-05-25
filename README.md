@@ -1,1 +1,1 @@
-# yolo12-obiect-dection
+# yolo12-obiect-detection
